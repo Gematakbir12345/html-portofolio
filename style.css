@@ -9,13 +9,14 @@ html{
 
 .first{
     font-family: "Libre Baskerville", serif;
-    color:white;
+    color:palevioletred;
     text-align: center;
     
 }
 
 h1{
     text-transform: uppercase;
+    font-size: x-large;
 }
 
 div{
